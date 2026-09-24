@@ -35,11 +35,32 @@ Essa experiência acabou direcionando meu interesse para sistemas em que banco d
 
 ## Tecnologias
 
-**Dados:** SQL, PostgreSQL, MySQL, SQLite, modelagem de dados, qualidade da informação e indicadores.
+### Dados
 
-**Desenvolvimento:** Python, TypeScript, React, Node.js, Electron, Capacitor, APIs REST, Git e GitHub.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Ambiente e automação:** Linux, Bash, Windows, Excel e Google Sheets.
+SQL, modelagem de dados, qualidade da informação, consultas analíticas e indicadores.
+
+### Desenvolvimento
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=flat-square&logo=electron&logoColor=white)
+![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
+
+APIs REST, aplicações Desktop e Mobile, integração entre sistemas e automação.
+
+### Ferramentas e ambiente
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+Git/GitHub, Linux, Bash, Windows, Excel e Google Sheets.
 
 ## Formação
 
